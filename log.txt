@@ -1,0 +1,47 @@
+commit 2efdd02615c460a2baa5bc9ca225875d08241593
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:45:18 2020 -0500
+
+    borre muchas cosas
+
+commit 410e750ef579f7738bde1b74fecacc37fe255729
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:23:24 2020 -0500
+
+    le agregamos la mudanza
+
+commit 380ce717c86e7fa0f7d02551b487e83faae7613f
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:20:01 2020 -0500
+
+    volví a la versión del colegio
+
+commit 1857543ca58060df7e8922ba0b4dcb4c5bc6e601
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:18:44 2020 -0500
+
+    le quitmaos el coloegio
+
+commit 78216e1289b75363782468b1bb694734512eeff4
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:11:57 2020 -0500
+
+    le agregue el colegio
+
+commit 66df0b3872f983ad21fbb73160782d99ea54af8e
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:08:18 2020 -0500
+
+    le agregué el lugar de nacimiento
+
+commit ebe022263cf6833433360ad4c58cbdbd1989e0d6
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 15:47:47 2020 -0500
+
+    remplazo vesrion de la historia
+
+commit 997248076937f5f9282511b76891b991dde54e91
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Fri Dec 4 17:30:51 2020 -0500
+
+    este es el primer commit del este archivo
