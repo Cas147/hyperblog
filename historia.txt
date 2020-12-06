@@ -4,4 +4,13 @@ Hola
 
  .... Andrés Castilla
 
+<<<<<<< HEAD
 hoy hablaremos de su vida y obra maestra
+=======
+mañana nos enfocaremos en su vida laboral
+
+nací en valledupar
+estudie en el colegio x
+
+luego me mude a medellin
+>>>>>>> cabecera

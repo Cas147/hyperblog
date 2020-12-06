@@ -1,0 +1,98 @@
+commit 2df1e1394db72b8bb735f5ef67ab5bcee9654f0a
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:31:42 2020 -0500
+
+    regrese a la version con mudanza
+
+ historia.txt | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 65dd3bbbecf2058598e18b5345a574ba211ce90f
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:28:46 2020 -0500
+
+    vine a ver las versiones sin mudanza
+
+ historia.txt | 5 -----
+ 1 file changed, 5 deletions(-)
+
+commit 6510c03ce00757140dbb94b22cbdd46e164e2a60
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:25:25 2020 -0500
+
+    futura mudanza
+
+ historia.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 0c8a86c1c861bae60b44622bcf9aa82ad7d32578
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:24:09 2020 -0500
+
+    le puse segunda mudanza
+
+ historia.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 410e750ef579f7738bde1b74fecacc37fe255729
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:23:24 2020 -0500
+
+    le agregamos la mudanza
+
+ historia.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 380ce717c86e7fa0f7d02551b487e83faae7613f
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:20:01 2020 -0500
+
+    volví a la versión del colegio
+
+ historia.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 1857543ca58060df7e8922ba0b4dcb4c5bc6e601
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:18:44 2020 -0500
+
+    le quitmaos el coloegio
+
+ historia.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 78216e1289b75363782468b1bb694734512eeff4
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:11:57 2020 -0500
+
+    le agregue el colegio
+
+ historia.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 66df0b3872f983ad21fbb73160782d99ea54af8e
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 16:08:18 2020 -0500
+
+    le agregué el lugar de nacimiento
+
+ historia.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit ebe022263cf6833433360ad4c58cbdbd1989e0d6
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Sat Dec 5 15:47:47 2020 -0500
+
+    remplazo vesrion de la historia
+
+ historia.txt | 7 +++++--
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+
+commit 997248076937f5f9282511b76891b991dde54e91
+Author: Andres Castilla <andrescas1948@gmail.com>
+Date:   Fri Dec 4 17:30:51 2020 -0500
+
+    este es el primer commit del este archivo
+
+ historia.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
