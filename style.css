@@ -16,15 +16,14 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
-    display: flex
-}
-.logo
-{
-    width: 30px;
-    height: auto;
-    vertical-align: middle;
+    display: flex;
+ 
 }
 
+.logo{
+    width: 30px;
+    vertical-align: middle;
+}
 
 .cabecera .tagline
 {
@@ -41,6 +40,7 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    
 }
 
 .container h1
