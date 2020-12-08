@@ -52,3 +52,12 @@ body
     background: white;
     padding: 1em;
 }
+
+footer{
+    width: 99%;
+    height: auto;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    padding: 5px;
+}
